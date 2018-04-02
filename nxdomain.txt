@@ -10035,6 +10035,7 @@ pskovbanks.ru
 pslan.com
 psplanernaya.ru
 psychonaut.ml
+psyguru.ml
 psyone.tk
 psyshop.ml
 psyspory.com
@@ -12318,6 +12319,7 @@ video.littlebyte.us
 videocaprice.ru
 videoconnoi.ru
 videodion.ru
+videokub.net
 videokub.online
 videos.uz
 videosfero.ru
