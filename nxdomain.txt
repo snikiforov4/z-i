@@ -9732,7 +9732,6 @@ pokerdom8.co
 pokergrant.net
 pokerhi.ru
 pokermira2.net
-pokerrating.org
 pokersell1.ru
 pokersell2.ru
 pokerturniri.ru
@@ -10039,6 +10038,7 @@ psychonaut.ml
 psyone.tk
 psyshop.ml
 psyspory.com
+psystore.ml
 psytime.ml
 pt.adv.bkfind.space
 ptzreklama.ru
