@@ -6040,7 +6040,6 @@ kak-zayti-na-marafon.top
 kak-zayti-na-marafon.website
 kak-zayti-na-marafon.win
 kaktostrann.biz
-kaktus24.ml
 kalefarnia.ru
 kalifarnia.ru
 kaliningrad-diplom.com
@@ -6217,7 +6216,6 @@ krasota.videokapsi.ru
 krasotkaj.ru
 krasotki39.com
 krasotkitut.com
-kreditvtomske.ru
 krepkie-napitki.ru
 kristall-aysberg.ru
 kristalli-bugulma-sk-skorosti.x-drug.ru
@@ -12063,6 +12061,7 @@ torlock.us
 torrent-baza.net
 torrent-filmi.ga
 torrent.az
+torrentcd.org
 torrentfastname.info
 torrentino-file.com
 torrentx.ml
