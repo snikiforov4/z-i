@@ -2452,9 +2452,11 @@ azartgoldbest.com
 azartgoldgame.com
 azartgoldgames.com
 azartgoldplay.com
+azartgoldslot.com
 azartgoldslots.com
 azartgoldvip.com
 azartgoldwin.com
+azartgoldwins.com
 azartkasino.net
 azartluckygame.com
 azartmafik.com
@@ -11983,6 +11985,7 @@ telzakaz.ru
 tentoriumgold.ru
 tesak.org
 test1.plusminus1.com
+test2.plusminus1.com
 test3.plusminus1.com
 tex-osmotr-avto.ru
 tfile-torrent.info
