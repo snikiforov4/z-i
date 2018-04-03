@@ -2010,6 +2010,7 @@ alcoholreplica.click
 alcoholreplica.lol
 alcohub.biz
 alcoinbox.click
+alcoinbox.com
 alcoinbox.net
 alcoinbox.tk
 alcolavca.com
@@ -2907,6 +2908,7 @@ bets.fongametime.org
 bets.foninbet.org
 bets.foninsport.org
 bets.fonsport.pro
+bets.fonsportbet.org
 bets.gameinfon.club
 bets.gameinfon.com
 bets.gameinfon.online
@@ -4750,6 +4752,7 @@ fivelevel.bet-in-fon.com
 fivelevel.betfon.org
 fivelevel.betsfon.com
 fivelevel.fon-bet-bk.com
+fivelevel.fonsportbet.org
 fivepic.ru
 fkvbnviazdz.mohammedashfaqurrahman.com
 fl24.biz
@@ -6128,6 +6131,7 @@ kinokrad.ru
 kinolifehd.ru
 kinopioneer.com
 kinoprofi-online.net
+kinoprofi-tv.org
 kinorik.ru
 kinorun.com
 kinosee.net
@@ -6146,6 +6150,7 @@ kiskishop.ru
 kiskitut.ru
 kislyi-bro.in
 kissrelax-samara.da-valki.ru
+kivvi.kz
 kkss24.biz
 klad-dv.ru
 klad-klgd.ru
@@ -7149,6 +7154,7 @@ live.fongametime.org
 live.foninbet.org
 live.foninsport.org
 live.fonsport.pro
+live.fonsportbet.org
 live.gameinfon.club
 live.gameinfon.com
 live.gameinfon.online
@@ -7791,6 +7797,7 @@ m.fonsport.tk
 m.fonsport.xyz
 m.fonsportbet.biz
 m.fonsportbet.cf
+m.fonsportbet.org
 m.fonsportbet.xyz
 m.fonsportgame.cf
 m.fonsportgame.tk
@@ -10332,6 +10339,7 @@ racing.fonsport.tk
 racing.fonsport.xyz
 racing.fonsportbet.biz
 racing.fonsportbet.cf
+racing.fonsportbet.org
 racing.fonsportbet.xyz
 racing.fonsportgame.cf
 racing.fonsportgame.tk
@@ -11491,7 +11499,6 @@ slots.bet-casinos.ru
 slotsadmiralclub.com
 slotsdom.com
 slotsforealmoney.com
-slotsmafia.com
 slotsmixfree.com
 slotsofcasino.org
 slotsofcasinofree.com
@@ -12101,6 +12108,7 @@ toto.fongame.online
 toto.fongametime.net
 toto.fongametime.online
 toto.fongametime.org
+toto.fonsportbet.org
 toto.gameinfon.club
 toto.gameinfon.com
 toto.gameinfon.online
@@ -13518,6 +13526,7 @@ www.forcemixes.com
 www.foreignlottery.ru
 www.formaspravki.net
 www.freebetslots.ru
+www.freecasino.su
 www.freekaraoke.ru
 www.freetorrmd.ru
 www.fullbetter.com
@@ -13653,6 +13662,7 @@ www.kinogo-net-co.ru
 www.kinogo-online.com
 www.kinokrad.ru
 www.kir-diplom.ru
+www.kivvi.kz
 www.kkray.org.ua
 www.klad-msk.ru
 www.klad.ch
