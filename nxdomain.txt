@@ -12410,6 +12410,7 @@ virtualsports.fongame.online
 virtualsports.fongametime.net
 virtualsports.fongametime.online
 virtualsports.fongametime.org
+virtualsports.fonsportbet.org
 virtualsports.gameinfon.club
 virtualsports.gameinfon.com
 virtualsports.gameinfon.online
@@ -14571,7 +14572,6 @@ www.zerx.su
 www.zombie-legal.com
 www.zoo4u.ru
 www1.fon1.bet
-www1.vipfonbet.ru
 www10.betcity.ru.com
 www10.bkbetcity.com
 www10.zerkalo-bk.com
