@@ -3038,6 +3038,7 @@ bkfonbetsports.cf
 bkfonbetsports.tk
 bkfonsport.cf
 bkfonsports.cf
+bkinfo1.online
 bkinfo10.online
 bkinfo2.online
 bkinfo3.online
@@ -4633,6 +4634,7 @@ evil-islands.ru
 evolution-x.ru
 evro-grand.com
 evstafii.ru
+exauto69.ru
 excelmedics.com
 excess.ltm.bkfind.space
 exclusive.in.ua
@@ -10557,6 +10559,7 @@ ru.leonbets23.ru
 ru.leongambit.net
 ru.leonsuper.com
 ru.leonvip009.com
+ru.leonzara.com
 ru.paradcasino.com
 ru.play.casino
 ru.playfortuna2.com
@@ -10770,6 +10773,7 @@ ru2.play.casino
 ru3.play.casino
 ru4.play.casino
 ruazart.com
+rubcash.net
 rubcash.ru
 rubet.win
 rublike.ru
@@ -11860,7 +11864,6 @@ telki.co
 telzakaz.ru
 tentoriumgold.ru
 tesak.org
-test2.plusminus1.com
 tex-osmotr-avto.ru
 tfile-torrent.info
 tglink1.profile.www.service.rkngov.top
