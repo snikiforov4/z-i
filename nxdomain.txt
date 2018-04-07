@@ -1824,6 +1824,7 @@ account.world-of-fongame.cf
 account.world-of-fongame.tk
 acecasino.top
 acidshop.ml
+acidstore.ml
 acidstore.ru
 acme.legal
 acordgit.ru
@@ -6283,7 +6284,6 @@ kontoraleonbets.top
 kontoramarathon.ru
 kooklegal.biz
 korol-mail.com
-korona.mobi
 koronabets1.com
 koronabets3.com
 kosklad.com
@@ -9685,6 +9685,7 @@ playmopo4.com
 playmopo5.com
 playmopo6.com
 playmopo7.com
+playmopo8.com
 playmopo9.com
 playmopoclub.com
 playonline.1000igr.net
@@ -10029,6 +10030,7 @@ pskovbanks.ru
 pslan.com
 psplanernaya.ru
 psychonaut.ml
+psycode.ml
 psyguru.ml
 psyone.tk
 psyshop.ml
