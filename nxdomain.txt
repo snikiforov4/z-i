@@ -1802,7 +1802,6 @@ account.fonsport.xyz
 account.fonsportbet.biz
 account.fonsportbet.cf
 account.fonsportbet.info
-account.fonsportbet.xyz
 account.fonsportgame.cf
 account.fonsportgame.tk
 account.game-fonbet.tk
@@ -4019,6 +4018,7 @@ dbdefb.olimp12da.top
 dbomb.ru
 dc579c.olimpb24d.gdn
 dc5986.olimp876c.site
+dc5e90.olimp6301.site
 dc9fb9.olimp27fe.top
 dccddb.olimp9b55.gdn
 dce94f.olimp53d1.top
@@ -5385,7 +5385,6 @@ games.fonsport.xyz
 games.fonsportbet.biz
 games.fonsportbet.cf
 games.fonsportbet.info
-games.fonsportbet.xyz
 games.fonsportgame.cf
 games.fonsportgame.tk
 games.game-fonbet.tk
@@ -7781,7 +7780,6 @@ m.fonsportbet.biz
 m.fonsportbet.cf
 m.fonsportbet.info
 m.fonsportbet.org
-m.fonsportbet.xyz
 m.fonsportgame.cf
 m.fonsportgame.tk
 m.game-fonbet.tk
@@ -8647,6 +8645,7 @@ mp-01.fbmetrix-f8ed4.tk
 mp-01.fbmetrix-fd9f6.tk
 mp-01.fbmetrix-fedb8.tk
 mp-01.fbmetrix-ffdc0.tk
+mp-01.fbmetrix.biz
 mp-01.fbmetrix.click
 mp-01.routemeto.info
 mp-01.smartdirectpath.club
@@ -8667,6 +8666,7 @@ mp-02.directsmartroute.net
 mp-02.directsmartroute.org
 mp-02.fbmetrix-b702f.tk
 mp-02.fbmetrix-fd9f6.tk
+mp-02.fbmetrix.biz
 mp-02.fbmetrix.click
 mp-02.routemeto.info
 mp-02.smartdirectpath.club
@@ -10346,7 +10346,6 @@ racing.fonsportbet.biz
 racing.fonsportbet.cf
 racing.fonsportbet.info
 racing.fonsportbet.org
-racing.fonsportbet.xyz
 racing.fonsportgame.cf
 racing.fonsportgame.tk
 racing.game-fonbet.tk
@@ -13123,6 +13122,7 @@ www.beyondpharmchem.com
 www.bezvb.ru
 www.bhkwileh.com
 www.bigpot.ru
+www.bingeshop.info
 www.bk-1x520.com
 www.bk-baltplay.com
 www.bk-fon-bet.cf
