@@ -168,6 +168,7 @@
 185.104.210.20
 185.104.211.7
 185.110.132.96
+185.141.165.14
 185.164.172.1
 185.164.172.21
 185.26.97.249
@@ -2219,7 +2220,6 @@ allnaturis.ru
 allodsrise.com
 allprostitutki.ru
 allserials.net
-allwantsimg.com
 alpari-24.biz
 alpari24.cc
 alpositions.ru
@@ -10435,7 +10435,6 @@ pravarus.co
 pravarus.net
 pravaruss.biz
 pravax.biz
-pravax.ru
 pravyysektor.od.ua
 premcash.pro
 premcash.ru
