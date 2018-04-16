@@ -1688,6 +1688,7 @@ account.bksportfon.cf
 account.fon-bet.cf
 account.fon-betbk.cf
 account.fon-betbk.tk
+account.fon-betgame.cf
 account.fon-betsport.cf
 account.fon-betsport.com
 account.fon-betsport.org
@@ -3393,7 +3394,6 @@ bombaslot.com
 bomber-man.biz
 bonanzagame5.com
 boner-club.com
-bonus.deposita.net
 bonus.vulkan24club.website
 bonuscash.net
 bonusgame.online
@@ -5059,6 +5059,7 @@ fon-bet-bk.com
 fon-bet.cf
 fon-betbk.cf
 fon-betbk.tk
+fon-betgame.cf
 fon-bets.su
 fon-betsport.com
 fon-betsport.org
@@ -5407,6 +5408,7 @@ games.do-running.com
 games.fon-bet.cf
 games.fon-betbk.cf
 games.fon-betbk.tk
+games.fon-betgame.cf
 games.fon-betsport.cf
 games.fon-betsport.com
 games.fon-betsport.org
@@ -7929,6 +7931,7 @@ m.diplomasrus.com
 m.fon-bet.cf
 m.fon-betbk.cf
 m.fon-betbk.tk
+m.fon-betgame.cf
 m.fon-betsport.cf
 m.fon-betsport.com
 m.fon-betsport.org
@@ -10949,6 +10952,7 @@ racing.fon-bet-bk.com
 racing.fon-bet.cf
 racing.fon-betbk.cf
 racing.fon-betbk.tk
+racing.fon-betgame.cf
 racing.fon-betsport.cf
 racing.fon-betsport.com
 racing.fon-betsport.org
@@ -14624,6 +14628,7 @@ www.fon-bet-sport.ru
 www.fon-bet.cf
 www.fon-betbk.cf
 www.fon-betbk.tk
+www.fon-betgame.cf
 www.fon-betsport.com
 www.fon-betsport.info
 www.fon-betsport.org
