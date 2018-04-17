@@ -4762,6 +4762,8 @@ ebu-bab.ru
 ebu-babtut.ru
 ec1340.olimp1897.top
 ec1904.olimpe24a.top
+ec2-34-203-212-15.eu-central-1.compute.amazonaws.com
+ec2-54-165-90-185.eu-central-1.compute.amazonaws.com
 ec4b22.olimp58e7.top
 ece419.olimp1960.top
 ecf761.olimp16e5.top
