@@ -1599,6 +1599,7 @@ access-fonbet.club
 access-fonbet.com
 access-fonbet.net
 access-fonbet.org
+access-fonbet.xyz
 access-marafon.win
 access.bktt.ru
 access2bb.info
@@ -7490,6 +7491,7 @@ lis8.xyz
 lismag.ru
 listenmus.ru
 lithub.ru
+littlebyte.us
 littlestars.top
 live-films.in.ua
 live-ruletka.ru
