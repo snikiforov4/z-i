@@ -121,6 +121,7 @@
 124-js.825e1c.3e24f490be5f538ea0.xyz
 124.ssra.ru
 125.ssra.ru
+128.199.35.197
 128.199.52.107
 12b46d995a4826939a43.xyz
 12sporting.30bet.site
@@ -132,6 +133,7 @@
 138.197.107.126
 138.197.107.163
 138.197.107.187
+138.197.107.80
 138.197.99.232
 138.197.99.241
 138458.olimp656f.top
@@ -13272,7 +13274,6 @@ telki.co
 telzakaz.ru
 tentoriumgold.ru
 tesak.org
-test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
 tex-osmotr-avto.ru
