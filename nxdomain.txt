@@ -2543,6 +2543,7 @@ astrahan.sexportal.site
 astrakhan.ostanovi-schetchik.ru
 astrix1.ru
 asvirazh.ru
+asynet.ru
 atributadmiral.com
 attestat-kupit.com
 attestat-ru.com
@@ -3380,7 +3381,6 @@ bochonokroma.com
 boevoipistolet.ru
 bol-list.net
 bolnichnie.info
-bolnichniy-list-kupit.ru
 bolnichniy-listi.com
 bolnichniy-msk.net
 bolnichniylist.net
@@ -3486,7 +3486,10 @@ bukmeker-sport.ru
 bukmeker-x.ru
 bukmeker.bkbe.ru
 bukmeker.gguc.ru
+bukmekerbest-ru.ru
 bukmekerbest.net
+bukmekerbest.ru
+bukmekerbest30.ru
 bukmekerov.top
 bukmekerskaya-kontora-bk-leon.info
 bukmekerskaya-parimatch.ru
@@ -7447,6 +7450,7 @@ lesi.tv
 lesson.ltw.bkfind.space
 letoszek.pl
 leymary.ru
+lgombet.win
 li.co.ve
 libeauto.ru
 life-tracks.ru
