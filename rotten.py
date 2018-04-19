@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import csv
 import socket
 import struct
@@ -12,9 +13,12 @@ def ip2long(ip_as_str):
     return ip_as_long
 
 
-with open('dump.csv', 'rb') as csv_file:
+with open('dump.csv', 'r', errors='ignore') as csv_file:
+    has_header = csv.Sniffer().has_header(csv_file.readline())
+    csv_file.seek(0)  # Rewind
+    if has_header:
+        next(csv_file, None)  # Skip header row
     reader = csv.reader(csv_file, delimiter=';')
-    raw_list = []
     for row in reader:
         for ip in row[0].split('|'):
             ip = ip.strip()
