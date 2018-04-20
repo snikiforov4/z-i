@@ -36,20 +36,24 @@ def ip2long(ip_as_str):
 
 
 def contains_in_single_list(ip_str):
-    return ip2long(ip_str) in rotten_ips
+    ip_long = ip2long(ip_str)
+    if ip_long in rotten_ips:
+        return rotten_ips[ip_long]
+    return None
 
 
 def contains_in_networks_list(ip_str):
     ip_address = ipaddress.ip_address(ip_str)
     for network in networks:
         if ip_address in network:
-            return True
-    return False
+            return network
+    return None
 
 
 def check_ip(ip_str):
-    if contains_in_single_list(ip_str) or contains_in_networks_list(ip_str):
-        logger.info('%s - BAD', ip_str)
+    result = contains_in_single_list(ip_str) or contains_in_networks_list(ip_str)
+    if result:
+        logger.info('%s - BAD (%s)', ip_str, result)
     else:
         logger.info('%s - GOOD', ip_str)
 
