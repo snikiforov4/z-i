@@ -2,6 +2,10 @@
 import csv
 import ipaddress
 import argparse
+import logging
+
+logger = logging.getLogger(__name__)
+logging.basicConfig(level=logging.DEBUG, format='%(message)s')
 
 parser = argparse.ArgumentParser()
 parser.add_argument('ip', nargs='+')
@@ -19,12 +23,12 @@ def get_ip_list_from_dump():
             next(csv_file, None)  # Skip header row
         reader = csv.reader(csv_file, delimiter=';')
         for row in reader:
-            for ip in row[0].split('|'):
-                ip = ip.strip()
+            for ip_address in row[0].split('|'):
+                ip_address = ip_address.strip()
                 try:
-                    rotten_ips[ip2long(ip)] = ip
+                    rotten_ips[ip2long(ip_address)] = ip_address
                 except ValueError:
-                    networks.append(ipaddress.ip_network(ip))
+                    networks.append(ipaddress.ip_network(ip_address))
 
 
 def ip2long(ip_as_str):
@@ -45,14 +49,14 @@ def contains_in_networks_list(ip_str):
 
 def check_ip(ip_str):
     if contains_in_single_list(ip_str) or contains_in_networks_list(ip_str):
-        print('BAD NEWS')
+        logger.info('%s - BAD', ip_str)
     else:
-        print('GOOD NEWS')
+        logger.info('%s - GOOD', ip_str)
 
 
 if __name__ == '__main__':
     get_ip_list_from_dump()
-    print('single ip addresses size = %s' % (len(rotten_ips)))
-    print('networks size = %s' % (len(networks)))
+    logger.debug('single ip addresses size = %s', len(rotten_ips))
+    logger.debug('networks size = %s', len(networks))
     for ip in args.ip:
         check_ip(ip)
