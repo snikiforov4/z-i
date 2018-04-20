@@ -1,28 +1,34 @@
 #!/usr/bin/python3
 import csv
 import ipaddress
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument('ip', nargs='+')
+args = parser.parse_args()
 
 rotten_ips = {}
 networks = []
 
 
+def get_ip_list_from_dump():
+    with open('dump.csv', 'r', errors='ignore') as csv_file:
+        has_header = csv.Sniffer().has_header(csv_file.readline())
+        csv_file.seek(0)  # Rewind
+        if has_header:
+            next(csv_file, None)  # Skip header row
+        reader = csv.reader(csv_file, delimiter=';')
+        for row in reader:
+            for ip in row[0].split('|'):
+                ip = ip.strip()
+                try:
+                    rotten_ips[ip2long(ip)] = ip
+                except ValueError:
+                    networks.append(ipaddress.ip_network(ip))
+
+
 def ip2long(ip_as_str):
     return int(ipaddress.ip_address(ip_as_str))
-
-
-with open('dump.csv', 'r', errors='ignore') as csv_file:
-    has_header = csv.Sniffer().has_header(csv_file.readline())
-    csv_file.seek(0)  # Rewind
-    if has_header:
-        next(csv_file, None)  # Skip header row
-    reader = csv.reader(csv_file, delimiter=';')
-    for row in reader:
-        for ip in row[0].split('|'):
-            ip = ip.strip()
-            try:
-                rotten_ips[ip2long(ip)] = ip
-            except ValueError:
-                networks.append(ipaddress.ip_network(ip))
 
 
 def contains_in_single_list(ip_str):
@@ -44,13 +50,9 @@ def check_ip(ip_str):
         print('GOOD NEWS')
 
 
-print('single ip addresses size = %s' % (len(rotten_ips)))
-print('networks size = %s' % (len(networks)))
-
-# TESTS
-# BAD NEWS
-check_ip('87.117.232.174')
-# BAD NEWS
-check_ip('74.82.64.1')
-# GOOD NEWS
-check_ip('192.168.99.11')
+if __name__ == '__main__':
+    get_ip_list_from_dump()
+    print('single ip addresses size = %s' % (len(rotten_ips)))
+    print('networks size = %s' % (len(networks)))
+    for ip in args.ip:
+        check_ip(ip)
