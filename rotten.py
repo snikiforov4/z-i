@@ -25,6 +25,8 @@ def get_ip_list_from_dump():
         for row in reader:
             for ip_address in row[0].split('|'):
                 ip_address = ip_address.strip()
+                if not ip_address:
+                    continue
                 try:
                     rotten_ips[ip2long(ip_address)] = ip_address
                 except ValueError:
